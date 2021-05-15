@@ -1,1 +1,1 @@
-# IMLE-Net-An-Interpretable-Multi-level-Multi-Channel-Model-for-ECG-Classification
+# IMLE-Net: An Interpretable Multi-level Multi-channel Model for ECG Classification
